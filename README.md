@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaushik54git
-- 👀 I’m interested in robotics, mechtronics 
+- 👀 I’m interested in software development,robotics, mechtronics 
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on innovation
 - 📫 How to reach me kaushikkumbhat54@gmail.com
