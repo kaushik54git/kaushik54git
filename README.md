@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kaushik54git"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Back%20End%20Developer;1.5%2B%4years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/kaushik54git"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Back%20End%20Developer;%204years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
